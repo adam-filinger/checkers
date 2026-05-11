@@ -1,5 +1,3 @@
-package cz.vse.java.checkers.interfaces;
-
 public enum Figure
 {
     NONE,

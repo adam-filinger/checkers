@@ -1,5 +1,3 @@
-package cz.vse.java.checkers.interfaces;
-
 import java.util.List;
 
 public interface IGame
